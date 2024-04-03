@@ -1,0 +1,5 @@
+com\javainuse\service\KafkaConsumer.class
+com\javainuse\SpringBootHelloWorldApplication.class
+com\javainuse\config\KafkaConfig.class
+com\javainuse\controller\ApacheKafkaWebController.class
+com\javainuse\service\KafkaSender.class
